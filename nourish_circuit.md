@@ -1,16 +1,16 @@
 # Nourish Circuit
 
-The Nourish Circuit guides players through rituals of replenishment and self-nurturing. It emphasizes hydration, nutrition, rest, and positive affirmations.
+The Nourish Circuit helps players strengthen the connection between physical care and emotional well-being. It emphasizes hydration, nutrition, and rest as pathways to improved mental clarity and emotional balance.
 
 ## Objectives
-- Build a habit of nourishing the body and mind daily
-- Track hydration, food intake, and rest
-- Unlock bonus points for consistent daily care
+- Connect nourishment habits to emotional and cognitive shifts
+- Encourage reflective tracking of hydration, food, and rest
+- Reward awareness of how physical inputs influence mood
 
 ## Prompts
-- What did you eat today that supported your mental clarity?
-- How did you speak kindly to your body today?
-- What did rest look like for you?
+- What did you consume today that noticeably improved your mood?
+- How did hydration affect your ability to focus or regulate emotions?
+- Did your food or rest patterns correspond with any emotional changes?
 
 ## Affirmation
-"I deserve nourishment, rest, and care."
+"My choices support my emotional balance and mental energy."
