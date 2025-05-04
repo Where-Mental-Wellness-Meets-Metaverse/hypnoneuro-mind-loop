@@ -6,8 +6,8 @@ HypnoNeuro Mind Loop is the therapeutic core of the HypnoNeuro ecosystem. It emp
 
 ## 🎮 Core Features
 
-- **Loop Modules**: Each loop focuses on a therapeutic theme (e.g., Nourish Circuit, Laundry Loop, Affirmation Loop) and offers prompts, affirmations, and real-life applications.
-- **Orthomolecular Nutrition**: In-game recipes and reflections are designed to support neurotransmitter balance using nutrients like tryptophan, tyrosine, and magnesium.
+- **Loop Modules**: Each loop focuses on a therapeutic theme (e.g., Nourish Circuit, Laundry Loop) and offers prompts, affirmations, and real-life applications.
+- **Orthomolecular Nutrition**: In-game recipes and reflections are designed to support neurotransmitter balance using nutrients like tryptophan and tyrosine.
 - **Nervous System Repatterning**: Players engage in micro-actions such as folding, sorting, breath pacing, or sensory visualization to downshift from stress.
 - **Real-Life Carryover**: All in-game behaviors mirror real-world tools for mood support, such as preparing a serotonin-rich snack or grounding through rhythmic movement.
 
