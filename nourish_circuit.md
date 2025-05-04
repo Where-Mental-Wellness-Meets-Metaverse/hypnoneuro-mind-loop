@@ -23,3 +23,4 @@ The Nourish Circuit applies orthomolecular principles to help players understand
 | Anxious     | GABA Support                | **Blueberry-cashew parfait** (blueberries, cashew yogurt, flax seeds) |
 | Sad/Heavy   | Serotonin Support           | **Warm oat bowl** (berries, oats, chia seeds) |
 
+
