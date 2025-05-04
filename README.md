@@ -22,7 +22,6 @@ HypnoNeuro Mind Loop is the therapeutic core of the HypnoNeuro ecosystem. It emp
 
 - `nourish_circuit.md` — Learn how food impacts neurotransmitters and apply in-game recipes to support mental clarity.
 - `laundry_loop.md` — Use sorting, movement, and visualization to reset mental clutter and promote regulation.
-- `affirmation_loop.md` — Reinforce neural rewiring and self-perception through personalized affirmations and repetition-based healing.
 
 ---
 
