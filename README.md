@@ -31,6 +31,12 @@ This repo is part of the broader **HypnoNeuro** platform — a decentralized, tr
 
 This diagram illustrates the onboarding and session flow for Level 1 (Hypnosis Room) within the HypnoNeuro platform.
 
-![HypnoNeuro L1 Flowchart](docs/A_flowchart_in_the_image_illustrates_the_initial_u.png)
+## 🧠 HypnoNeuro Level 1 Flowchart
+
+This diagram illustrates the onboarding and token logic for Level 1 (Hypnosis Room) within the HypnoNeuro platform.
+
+![HypnoNeuro L1 Flowchart](docs/HypnoNeuro_flowchart.png)
+
+
 
 
