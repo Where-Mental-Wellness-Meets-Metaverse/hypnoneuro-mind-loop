@@ -27,9 +27,6 @@ HypnoNeuro Mind Loop is the therapeutic core of the HypnoNeuro ecosystem. It emp
 
 This repo is part of the broader **HypnoNeuro** platform — a decentralized, trauma-informed system for avatar-based mental wellness and therapeutic game design.
 
-## 🧠 HypnoNeuro Level 1 Flowchart
-
-This diagram illustrates the onboarding and session flow for Level 1 (Hypnosis Room) within the HypnoNeuro platform.
 
 ## 🧠 HypnoNeuro Level 1 Flowchart
 
