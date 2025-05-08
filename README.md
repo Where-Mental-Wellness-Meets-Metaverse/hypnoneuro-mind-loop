@@ -32,7 +32,7 @@ This repo is part of the broader **HypnoNeuro** platform — a decentralized, tr
 
 This diagram illustrates the onboarding and token logic for Level 1 (Hypnosis Room) within the HypnoNeuro platform.
 
-![HypnoNeuro L1 Flowchart](docs/HypnoNeuro_flowchart.png)
+
 
 
 
