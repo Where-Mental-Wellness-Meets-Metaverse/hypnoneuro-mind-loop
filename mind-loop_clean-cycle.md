@@ -1,26 +1,28 @@
-# Laundry Loop
 
-The Laundry Loop reframes everyday tasks as opportunities for nervous system regulation. Rooted in naturopathic psychology, this module helps players reduce emotional overload by engaging in symbolic sorting, breath pacing, and rhythmic flow. It supports emotional reset through presence-based micro-actions.
+# 🧼 Mind Loop: Clean Cycle
 
-## Objectives
-- Use movement and rhythm to downshift the nervous system
-- Reframe daily responsibilities as healing opportunities
-- Support mood regulation through breath, flow, and symbolic clearing
+A calming gamified module designed for Level 1 (Hypnosis Room) within HypnoNeuro.
 
-## Prompts
-- Which part of today’s task helped you feel most present — folding, sorting, or breathing?
-- Did the rhythm or repetition help ease your mental state?
-- How did your mood shift after completing the loop?
+---
 
-## Affirmation
-"I bring ease and regulation into everyday moments."
+## 🕹️ How to Play: Laundry Edition
 
-## Example Activities and Mood Support
+### 🌑 Start in the Laundry Room
+- Avatar spawns in a dim room.
+- Piles of laundry and a lurking "laundry dragon" in the shadows.
 
-| Mood       | Goal                     | Task Suggestion |
-|------------|--------------------------|-----------------|
-| Overwhelmed | Ground and reset         | Fold laundry while practicing 4-count breath |
-| Distracted  | Focus and simplify       | Sort socks while visualizing calm flow |
-| Tense       | Release emotional static | Match laundry items while stretching shoulders and jaw |
+### 🎯 Choose a Quest
+- Example: "Rescue your favorite hoodie from the sock vortex."
 
+---
 
+### 🎮 Mini-Games
+
+#### 1. 🧺 Color Sort
+- Drag dirty clothes into color-matched baskets.
+- Each color provides a different emotional feedback (e.g., blue = calm, red = courage).
+- Score based on speed + accuracy.
+
+#### 2. 🧴 Detergent Select
+- Choose a calming scent: lavender, vanilla, peppermint.
+- Animation
