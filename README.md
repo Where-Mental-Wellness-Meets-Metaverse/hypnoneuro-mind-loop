@@ -35,7 +35,7 @@ This diagram illustrates the onboarding and token logic for Level 1 (Hypnosis Ro
 ## 🎮 Mind Loop Modules
 
 - [Mind Loop: Clean Cycle](./mind-loop_clean-cycle.md) — Laundry-themed behavior loop to reset emotional energy.
-- [Mind Loop: Nourish](./nourish_circuit.md) — Food-based loop for calming neurotransmitter support.
+- [Mind Loop: Nourish](./mind-loop_nourish.md) — Food-based loop for calming neurotransmitter support.
 
 
 
