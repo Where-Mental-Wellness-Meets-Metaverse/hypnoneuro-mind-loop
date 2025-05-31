@@ -2,7 +2,12 @@
 
 **A gamified behavioral engine combining naturopathic neuroscience, orthomolecular medicine, and daily micro-interventions to support emotional healing and mental clarity.**
 
-HypnoNeuro Mind Loop is the therapeutic core of the HypnoNeuro ecosystem. It empowers users to complete behavior-based "loops" that retrain the nervous system, regulate emotions, and apply food-mood strategies through guided, game-integrated actions.
+🧠 HypnoNeuro Room Structure
+
+- **Level 1: Hypnosis Room** – Core hypnosis protocol and session engagement.
+- **Level 2: Mental Wellness Room** – Mind Loop games like Clean Cycle and Nourish that reinforce behavioral healing through holistic tasks.
+- **Level 3: Inner Child Healing Room** – Deep memory repair and developmental trauma support.
+
 
 ## 🎮 Core Features
 
