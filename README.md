@@ -6,7 +6,7 @@
 
 - **Level 1: Hypnosis Room** – Core hypnosis protocol and session engagement.
 - **Level 2: Mental Wellness Room** – Mind Loop games like Clean Cycle and Nourish that reinforce behavioral healing through holistic tasks.
-- **Level 3: Inner Child Healing Room** – Deep memory repair and developmental trauma support.
+- **Level 3: Inner Child Healing Room** – A playful, restorative space where users reconnect with their younger selves through safe, imaginative games designed to heal the parts of them that were fragmented by early emotional burdens or forced to grow up too soon.
 
 
 ## 🎮 Core Features
