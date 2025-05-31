@@ -1,4 +1,5 @@
-# Nourish Circuit
+# 🥣 Mind Loop: Nourish
+
 
 The Nourish Circuit applies orthomolecular principles to help players understand how specific foods influence neurotransmitter and neuropeptide balance. This loop introduces real-life, in-game recipes that support dopamine, serotonin, GABA, and endorphin production through amino acid-rich and mood-elevating ingredients.
 
