@@ -32,6 +32,12 @@ This repo is part of the broader **HypnoNeuro** platform — a decentralized, tr
 
 This diagram illustrates the onboarding and token logic for Level 1 (Hypnosis Room) within the HypnoNeuro platform.
 
+## 🎮 Mind Loop Modules
+
+- [Mind Loop: Clean Cycle](./mind-loop_clean-cycle.md) — Laundry-themed behavior loop to reset emotional energy.
+- [Mind Loop: Nourish](./nourish_circuit.md) — Food-based loop for calming neurotransmitter support.
+
+
 
 ![Level 1 Flowchart](docs/HypnoNeuro_Level1_Flowchart.png)
 
