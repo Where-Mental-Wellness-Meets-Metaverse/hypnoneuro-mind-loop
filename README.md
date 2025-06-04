@@ -43,7 +43,8 @@ python app.py
 Adjust configuration as needed to connect with the broader HypnoNeuro platform.
 
 Contribution
-This project is proprietary to Dr. Meg Montañez-Davenport. Unauthorized copying or distribution is prohibited. Please contact the owner for collaboration opportunities.
+This project is proprietary to Dr. Meg Montañez-Davenport. Unauthorized copying or distribution is prohibited.
+Please contact the owner for collaboration opportunities.
 
 
 
